@@ -6,7 +6,9 @@ categories: Python
 
 아래 유튜브 동영상을 보면서 만들어본 첫번째 파이썬 프로그램입니다.
 
-파이썬으로 게임 만들기 강의 <https://www.youtube.com/watch?v=pRBO1W0OX4I&list=PLZOm4uzWk9WPN8Newzmsr-Q62jwbFhTY_>
+파이썬으로 게임 만들기 강의 
+
+<https://www.youtube.com/watch?v=pRBO1W0OX4I&list=PLZOm4uzWk9WPN8Newzmsr-Q62jwbFhTY_>
 
 <br>
 
