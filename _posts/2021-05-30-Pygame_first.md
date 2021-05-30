@@ -1,10 +1,15 @@
-## 파이썬으로 게임 만들기 강의
-### https://www.youtube.com/watch?v=pRBO1W0OX4I&list=PLZOm4uzWk9WPN8Newzmsr-Q62jwbFhTY_
+---
+title: "처음 만들어본 Python 프로그램 - 파이게임으로 게임 만들기"
+date: 2021-05-30 15:27:28 -0400
+categories: Python
+---
 
-시작 날짜 : 21년 5월 22일
+아래 유투브 동영상을 보면서 만들어본 첫번째 파이썬 프로그램입니다.
 
-___
-V1.0.0 : 21년 5월 29일, 기본 버젼 완료
+파이썬으로 게임 만들기 강의
+
+https://www.youtube.com/watch?v=pRBO1W0OX4I&list=PLZOm4uzWk9WPN8Newzmsr-Q62jwbFhTY_<https://www.youtube.com/watch?v=pRBO1W0OX4I&list=PLZOm4uzWk9WPN8Newzmsr-Q62jwbFhTY_>
+
 <br>
 
 
